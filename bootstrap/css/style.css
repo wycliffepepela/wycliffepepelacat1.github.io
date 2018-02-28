@@ -1,0 +1,27 @@
+.jumbotron{
+	background-image: url(../../img/wet.jpg);
+}
+.jumbotron h1{
+	color: orange;
+}
+.modal-header{
+	background-image: url(../../img/wet1.jpg);
+}
+.jumbotron h2{
+	color: orange;
+	text-decoration-line: bottom;
+}
+body {
+	background-color: teal;
+}
+.jumbotron h3,label{
+	color:green;
+}
+ a h3{
+	color:red;
+
+ }
+ #team h3{
+ 	color: orange;
+ }
+ p a{color: green;}
